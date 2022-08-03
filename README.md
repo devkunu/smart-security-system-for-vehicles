@@ -5,3 +5,12 @@ The Arduino UNO microcontroller in the developed system processes the NMEA data 
 A gyro sensor was used to determine the vehicle's x-y displacement. When an accident happens, the vehicle's instantaneous coordinates are collected using a GPS module and sent to the relatives or response departments via a GSM module.
 The proposed system is user friendly, easily installable, and accessible, and it may be utilized for a variety of purposes.
 The device not only finds the target's position, turns off its ignition but also acta as an accident detection system.
+* Embedded C
+* Flutter
+* Arduino IDE
+* Arduino Uno Atmega 328pu
+* Neo 6m Gps Module
+* Gsm 900A Sim Module
+* Relay 5V
+* Adxl 335
+* Vehicle Tracker.apk File
