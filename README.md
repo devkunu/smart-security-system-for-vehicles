@@ -7,6 +7,7 @@ The proposed system is user friendly, easily installable, and accessible, and it
 The device not only finds the target's position, turns off its ignition but also acta as an accident detection system.
 * Embedded C
 * Flutter
+* Dart
 * Arduino IDE
 * Arduino Uno Atmega 328pu
 * Neo 6m Gps Module
